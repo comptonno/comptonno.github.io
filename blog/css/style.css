@@ -64,13 +64,18 @@
 }
 
 @font-face {
+    font-family: rozhaone-regular;
+    src: url(../fonts/serif/rozhaone-regular.ttf) format('truetype');
+}
+
+@font-face {
     font-family: opensans-regular;
     src: url(../fonts/sans-serif/opensans-regular.ttf);
 }
 
 html,body{
     font-size:1rem;
-    font-family: josefinslab-regular, serif;
+    font-family: rozhaone-regular, serif;
     margin: 0 auto;
     min-width: 56rem;
     padding: 0;
