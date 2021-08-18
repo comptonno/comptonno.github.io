@@ -140,7 +140,7 @@ li a:hover{
 }
 
 .strike{
-    transform: rotate(5deg);
+    transform: rotate(4deg);
 }
 .strike a{
     text-decoration: line-through;
