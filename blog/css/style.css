@@ -263,10 +263,10 @@ figcaption a {
     font-size: medium;
     text-align: center;
     cursor: pointer;
-    color: #112661;
+    color: #f5f5dc;
     border: none;
     padding: 0.67rem;
-    background-color: #000080;
+    background-color: #112661;
     border-radius: 0.5rem;
     text-shadow: none;
     width: 130px;
