@@ -98,7 +98,7 @@ header {
 }
 
 .highlight{
-    background-color:#A52A2A;
+    background-color:#812F31;
     color: #f5f5dc;
     padding: 0.67rem;
     border-radius: 0.75rem;
@@ -263,7 +263,7 @@ figcaption a {
     font-size: medium;
     text-align: center;
     cursor: pointer;
-    color: #f5f5dc;
+    color: #112661;
     border: none;
     padding: 0.67rem;
     background-color: #000080;
